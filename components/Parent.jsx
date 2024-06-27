@@ -7,7 +7,7 @@ function Parent() {
 
   return (
     <div>
-      <h1>Parent Component</h1>
+      <h1>Parent Component MUNISA</h1>
       <Child message={message}  setCount={setCount} />
       <h1>Children count equal to: {count}</h1>
     </div>

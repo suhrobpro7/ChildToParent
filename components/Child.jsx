@@ -4,7 +4,7 @@ function Child({ message, count , setCount}) {
 
     return (
     <div>
-      <h2>Child Component</h2>
+      <h2>Child Component SHANI</h2>
       <p>{message}</p>
       <p>{count} {setCount(21000)}</p>
     </div>
